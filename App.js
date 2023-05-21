@@ -1,9 +1,9 @@
 import React from "react";
-import '../styles/App.css';
+
 import Welcome from './Welcome';
 
 const App = () => {
-  let name = "Nishant Shokeen";
+  let name = "Anand Dubey";
   return (
     <Welcome name={name} />
   )
